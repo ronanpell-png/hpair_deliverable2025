@@ -59,47 +59,6 @@ Build a personal information form application with the following features:
 
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## 🔥 Firebase Setup (Required for Form Submissions)
-
-To enable form submissions to a shared database, you need to set up Firebase:
-
-1. **Create Firebase Project**
-   - Go to [https://console.firebase.google.com/](https://console.firebase.google.com/)
-   - Click "Create a project" or "Add project"
-   - Follow the setup wizard
-
-2. **Enable Firestore Database**
-   - In your Firebase project, go to "Firestore Database"
-   - Click "Create database"
-   - Choose "Start in test mode" (for development)
-   - Select a location for your database
-
-3. **Get Firebase Configuration**
-   - Go to Project Settings (gear icon) > General
-   - Scroll down to "Your apps" section
-   - Click "Add app" and select the web icon (</>)
-   - Register your app with a nickname
-   - Copy the Firebase configuration object
-
-4. **Update Firebase Configuration**
-   - Open `src/firebase/config.js`
-   - Replace the placeholder values with your actual Firebase config:
-   ```javascript
-   const firebaseConfig = {
-     apiKey: "your-actual-api-key",
-     authDomain: "your-project.firebaseapp.com",
-     projectId: "your-actual-project-id",
-     storageBucket: "your-project.appspot.com",
-     messagingSenderId: "your-actual-sender-id",
-     appId: "your-actual-app-id"
-   };
-   ```
-
-5. **Test the Setup**
-   - Submit a form to test the connection
-   - Visit `/admin` to view submitted forms
-   - Check your Firebase console to see the data
-
 ## 📁 Project Structure
 
 ```
@@ -179,3 +138,4 @@ This challenge is designed to test:
 - **Problem Solving**: Implementing form validation and user interactions
 
 Good luck! 🚀
+# hpair_deliverable2025
