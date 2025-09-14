@@ -4,7 +4,7 @@ Build a **personal information form application** with the following features:
 
 ---
 
-## ✅ Required Features (Must Implement)
+## Required Features (Must Implement)
 
 1. **Form Validation**
    - Real-time validation  
@@ -21,9 +21,6 @@ Build a **personal information form application** with the following features:
    - Preferred language  
    - *(Feel free to propose and add more fields that improve usefulness or user experience.)*  
 
-   ➡️ **Conditional Logic Example**:  
-   - If a user selects **USA** as their nationality, also ask for their **state**.  
-   - Similarly, consider where conditional questions could make the form smarter and more streamlined.  
 
 3. **Form Submission**
    - Handle form data submission  
@@ -36,7 +33,7 @@ Build a **personal information form application** with the following features:
 
 ---
 
-## ⭐ Bonus / Creative Features (Optional but Encouraged)
+## Bonus / Creative Features (Optional but Encouraged)
 
 1. **User Experience Enhancements**
    - Loading states  
@@ -47,14 +44,14 @@ Build a **personal information form application** with the following features:
 2. **Extended Functionality**
    - Email the response to a provided email  
    - Provide a downloadable summary of the submission  
-   - Implement more **conditional questions** (e.g., only ask for a LinkedIn URL if the user indicates they have one)  
+   - Implement **conditional questions** (e.g., only ask for a LinkedIn URL if the user indicates they have one)  
    - Any additional feature you believe would improve usability or make the form stand out  
 
-💡 *We expect you to think beyond the basics—demonstrate creativity by proposing and implementing at least one additional feature or unique UI/UX improvement.*  
+ *We expect you to think beyond the basics—demonstrate creativity by proposing and implementing at least one additional feature or unique UI/UX improvement.*  
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Install dependencies:
    ```bash
