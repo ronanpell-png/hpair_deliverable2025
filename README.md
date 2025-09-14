@@ -52,6 +52,7 @@ Build a **personal information form application** with the following features:
 ---
 
 ## Getting Started
+0. Fork this repository to your personal github account
 
 1. Install dependencies:
    ```bash
@@ -72,3 +73,6 @@ Please create an account at [Vercel](https://vercel.com/) and then link your rep
 
 If you run into any issues cloning the repo or breaking bugs that seem outside of your ability to fix, please reach out to Natalia Siwek and Ethan Kiang at nataliasiwek@college.harvard.edu and ekiang@college.harvard.edu. Good luck, we look forward to your submissions!
 
+## AI Policy
+
+You're allowed to use AI to complete this deliverable. In the same time, all code you submit is a fair game for the interview - including design decisions, features implementation and trade-offs
